@@ -8,7 +8,7 @@ void print(char c){
 
 void print_reverse(void){
     char c = 'z';
-    while (c > 'a')
+    while (c >= 'a')
     {
         /* code */
         print(c);
