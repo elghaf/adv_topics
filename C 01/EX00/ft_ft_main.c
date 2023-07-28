@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/*it take the content of the address*/
 void ft_ft(int *nbr){
     *nbr = 42;
 }
